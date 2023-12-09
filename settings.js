@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['917377285175'] //ur owner number
+global.ownernomer = "918260634323" //ur owner number2
+global.ownername = "🦄sw4pn3" //ur owner name
+global.ytname = "YT: na" //ur yt chanel name
+global.socialm = "GitHub:NA" //ur github or insta name
+global.location = "ODISHA,INDIA" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
+global.botname = "SW4PN3 MD V8"
+global.ownernumber = '917377285175'
+global.ownername = '🦄드림 가이 XSW4PN3'
+global.ownerNumber = ["917377285175@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@SW4PN3"
+global.websitex = "NA"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "SW4PN3 Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "🦄드림 가이 SW4PN3\n\n"
+global.creator = "918260634323@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
